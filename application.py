@@ -73,7 +73,7 @@ welcome = """
     padding-top: 11em;
     background-color: #1BA86D;
     background-image: -moz-radial-gradient(left top, circle, #6AF9BD 0%, #00B386 60%);
-    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#1935F0), to(#1935F0));
+    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(rgb(240, 129, 25)), to(rgb(240, 39, 25)));
   }
   .textColumn p {
     width: 75%;
